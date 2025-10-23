@@ -33,6 +33,6 @@ Users can submit reports with details such as the **crime type**, **description*
 
 ---
 
-## 🧩 Project Structure
+
 
 
