@@ -27,7 +27,7 @@ Users can submit reports with details such as the **crime type**, **description*
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | Flutter, Dart |
-| **Backend (Optional)** | Firebase / Node.js + Express |
+| **Backend ** | Firebase / Node.js + Express |
 | **Tools** | Android Studio, Gradle, Git |
 | **Platform** | Android (iOS support planned) |
 
